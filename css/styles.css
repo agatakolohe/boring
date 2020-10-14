@@ -1,0 +1,17 @@
+.intro {
+  color: darkcyan;
+  text-align: center;
+  font-family: cursive;
+  text-shadow: 4px 4px cyan;
+}
+img.intro {
+  width: 50%;
+  height: 50%;
+}
+.ivysaur {
+  color: red;
+}
+.green {
+  color: green;
+  text-shadow: darkolivegreen;
+}
